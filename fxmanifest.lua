@@ -1,7 +1,7 @@
 name "Jim-CableCar"
 author "Jimathy"
 version "1.0"
-description "CableCar Script By Jimathy"
+description "CableCar Script Rewritten By Jimathy"
 fx_version "cerulean"
 game "gta5"
 lua54 'yes'
