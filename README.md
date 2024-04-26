@@ -22,7 +22,7 @@ TODO
 
 ## Disclaimer and Limitations
 
-**This script is provided as is**, if you open an issue : expect support only on a best effort / good-will basis.
+**This script is provided as is**, no support will be provided.
 
 Pull requests to fix bugs or improve the script are welcome !
 
